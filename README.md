@@ -11,7 +11,7 @@ The main credit goes to the [original `moviedb` package](https://github.com/impr
 ## Installation
 
 ```bash
-npm install moviedb-promise --save
+npm install moviedb-promise-es6 --save
 ```
 
 ## Usage
@@ -19,7 +19,8 @@ npm install moviedb-promise --save
 Require the module and instantiate the class with your themoviedb.org API KEY.
 
 ```js
-const MovieDb = require('moviedb')
+import * as MovieDb from 'moviedb-promise-es6'
+
 const moviedb = new MovieDb('your api key')
 ```
 
