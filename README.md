@@ -19,7 +19,7 @@ npm install moviedb-promise-es6 --save
 Require the module and instantiate the class with your themoviedb.org API KEY.
 
 ```js
-import * as MovieDb from 'moviedb-promise-es6'
+import MovieDb from 'moviedb-promise-es6';
 
 const moviedb = new MovieDb('your api key')
 ```
