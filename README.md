@@ -6,7 +6,7 @@ This was original a pull request that went stale, so it's its own package now. T
 
 The main credit goes to the [original `moviedb` package](https://github.com/impronunciable/moviedb) by Dan Zajdband.
 
-Update made to move to ES6 imports.
+This promise library was written by Grant Holle.
 
 ## Installation
 

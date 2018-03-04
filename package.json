@@ -1,7 +1,7 @@
 {
   "name": "moviedb-promise-es6",
-  "description": "A library for interacting with themoviedb.org API using Promises",
-  "version": "0.1.5",
+  "description": "An ES6 library for interacting with themoviedb.org API using Promises",
+  "version": "0.1.6",
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter spec",
     "lint": "./node_modules/.bin/standard",
@@ -24,8 +24,9 @@
   },
   "homepage": "https://github.com/SimonDever/moviedb-promise#readme",
   "main": "index.js",
-  "author": "Grant Holle <https://github.com/grantholle>",
+  "author": "Grant Holle (https://github.com/grantholle)",
   "contributors": [
+    "Grant Holle (https://github.com/grantholle)",
     "Simon Dever (https://github.com/SimonDever)"
   ],
   "dependencies": {
